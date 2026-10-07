@@ -1,3 +1,6 @@
+## Website
+https://bias-lens-fairness.lovable.app/
+
 # Intersectional Hiring Audit
 
 An intersectional self-audit framework for hiring models, checking **behavioural** and **activation-space** bias on race × age. Built for the 180DC Bristol × BDSS datathon "Exploring Bias in Hiring" (7 Oct 2026).
@@ -31,5 +34,3 @@ pip install -r requirements.txt
 python src/run_tier1.py   # coming
 ```
 
-## Website
-https://bias-lens-fairness.lovable.app/
